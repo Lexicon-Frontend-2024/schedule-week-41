@@ -3,9 +3,9 @@
 ###### Individuellt projekt
 
 ## Mål för veckan:
-1. Grundläggande kunskap i Figma
-2. Skissa upp ditt projektarbete i Figma
-3. Valt API/gjort ditt eget
+1. Fått ut dina produkter från API:et till din UI
+2. Sparat dina produkter till din useContext
+3. Kunna lägga till en ny produkt
 
 ## Material
 #### E-Learning:
@@ -14,7 +14,7 @@
 ## Uppgifter:
 [Individuellt projektarbete](https://github.com/Lexicon-Frontend-2024/Individuellt-projekt-examinerande)
 
-## Lektionsrepon:
+## Lektionsrepon/Upplägg:
 * **Måndag:** FM: Uppstart med Maja och Linnéa. Linnéa pratar om anställbarhet, CV/LinkedIn och intervjuteknik. EM: Individuellt projektarbete med handledning. (Heldag: Maja & Linnéa)
 * **Tisdag:** FM: Uppstart och sedan Individuellt projektarbete med handledning. EM: Individuellt projektarbete med handledning. (Heldag: Maja, Annika och Johan Kivi)
 * **Onsdag:** FM: Uppstart och sedan individuellt projektarbete med handledning. EM: Forts. Figma. (FM: Annika, EM: Maja)
