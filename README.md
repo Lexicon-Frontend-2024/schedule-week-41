@@ -18,5 +18,5 @@
 * **Måndag:** FM: Uppstart med Maja och Linnéa. Linnéa pratar om anställbarhet, CV/LinkedIn och intervjuteknik. EM: Individuellt projektarbete med handledning. (Heldag: Maja & Linnéa)
 * **Tisdag:** FM: Uppstart och sedan Individuellt projektarbete med handledning. EM: Individuellt projektarbete med handledning. (Heldag: Maja, Annika och Johan Kivi)
 * **Onsdag:** FM: Uppstart och sedan individuellt projektarbete med handledning. EM: Forts. Figma. (FM: Annika, EM: Maja)
-* **Torsdag:** FM: Uppstart och sedan individuellt projektarbete med handledning. EM: Individuellt projektarbete med handledning. (FM: Annika och Eva, EM: Maja)
+* **Torsdag:** FM: Uppstart och sedan individuellt projektarbete med handledning. EM: Individuellt projektarbete med handledning. (FM: Annika, EM: Maja)
 * **Fredag:** FM: Code review på era projekt och sedan individuellt projektarbete med handledning. (Heldag: Niklas och Annika)
